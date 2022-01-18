@@ -41,7 +41,7 @@ const productDetails = (firstProduct, secondProduct) => [
 
 // console.table(productDetails('Alcool gel', 'Máscara').length);
 // console.table(typeof productDetails('Alcool gel', 'Máscara'));
-// console.log(productDetails('Alcool gel', 'Máscara')[0]);
+console.log(productDetails('Alcool gel', 'Máscara')[0]);
 // console.log(productDetails('Alcool gel', 'Máscara')[1]);
 // console.log(productDetails('Alcool gel', 'Máscara')[0].details.productId);
 // console.log(productDetails('Alcool gel', 'Máscara')[1].details.productId);
