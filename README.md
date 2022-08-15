@@ -10,6 +10,11 @@ Projeto desenvolvido por estudante durante o curso de Fundamentos do Desenvolvim
 
 <br />
 
+# Imagens da aplicação
+
+![tests](https://user-images.githubusercontent.com/94480963/184563566-8e7229f4-3c76-4543-ad1b-1f8d31360b3a.gif)
+
+
 # 👨‍💻 O que foi desenvolvido
 
 - Testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
